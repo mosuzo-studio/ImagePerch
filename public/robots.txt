@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imageperch.mosuzo.com/sitemap-index.xml
