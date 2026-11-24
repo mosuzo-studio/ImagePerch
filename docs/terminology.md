@@ -11,3 +11,6 @@ Real PNGs are historical shared Image Viewer runtime captures from the source pr
 - 04 / FINISH / 04 / 交付: Clipboard · PNG export · Recent files / 剪贴板 · PNG 导出 · 最近文件
 
 No invented metrics, testimonials, prices, licensing, minimum system requirements (except KeySplera Release), or universal offline/privacy claims. Public standalone downloads for WindowSift and ImagePerch are pending. Never upload supplied beta executables as part of the website task.
+
+- 发送反馈 / Send feedback (More menu).
+- 贴纸快捷位 / Sticker shortcuts.
