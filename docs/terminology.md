@@ -1,7 +1,7 @@
 # ImagePerch: verified terms and claims
 
 Audit: 2026-11-18 (Asia/Shanghai).
-Sources: src/viewer/ViewerMain.cpp, ScrollResultWindow.cpp, AnnotationEditor.cpp. Local source was read at D:/project/research/SnipX; supplied binaries were also inspected for matching embedded UI strings. Source review does not establish runtime verification.
+Sources: src/viewer/ViewerMain.cpp, ScrollResultWindow.cpp, AnnotationEditor.cpp. Local source was read in the original application repository; supplied binaries were also inspected for matching embedded UI strings. Source review does not establish runtime verification.
 
 Real PNGs are historical shared Image Viewer runtime captures from the source project, not the renamed build. Captions must state this. Standalone mode hides Pin: do not claim desktop pinning.
 
